@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   luv2shopApiUrl: "https://alexcombackend.azurewebsites.net/api",
-  stripePublishableKey: "pk_test_51KgZckE6okuwhGCfjABpYUUcNI0kbbK36WsnseXatx6xdoSKMsF7hO6mSLHDvNocKnQYdeMI9bwbBCXJpiIKMbM3002aJHIZkX"
+  stripePublishableKey: "pk_test_51KyLT1LpYMZyrFp0BMUAamrZtsxHAPuW0wDZuBDgJ25VEl3Byt6eqyoFC8C4zvihdzKgh4qxD26XjFqdJmR18tsH00dYPdA13U"
 };
 
 /*
